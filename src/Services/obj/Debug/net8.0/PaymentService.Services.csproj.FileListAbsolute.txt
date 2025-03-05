@@ -1,0 +1,11 @@
+/Users/bogdanmihaila/Desktop/MibostarArt Project/PaymentService/src/Services/bin/Debug/net8.0/PaymentService.Services.deps.json
+/Users/bogdanmihaila/Desktop/MibostarArt Project/PaymentService/src/Services/bin/Debug/net8.0/PaymentService.Services.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/PaymentService/src/Services/bin/Debug/net8.0/PaymentService.Services.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/PaymentService/src/Services/obj/Debug/net8.0/PaymentService.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanmihaila/Desktop/MibostarArt Project/PaymentService/src/Services/obj/Debug/net8.0/PaymentService.Services.AssemblyInfoInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/PaymentService/src/Services/obj/Debug/net8.0/PaymentService.Services.AssemblyInfo.cs
+/Users/bogdanmihaila/Desktop/MibostarArt Project/PaymentService/src/Services/obj/Debug/net8.0/PaymentService.Services.csproj.CoreCompileInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/PaymentService/src/Services/obj/Debug/net8.0/PaymentService.Services.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/PaymentService/src/Services/obj/Debug/net8.0/refint/PaymentService.Services.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/PaymentService/src/Services/obj/Debug/net8.0/PaymentService.Services.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/PaymentService/src/Services/obj/Debug/net8.0/ref/PaymentService.Services.dll
